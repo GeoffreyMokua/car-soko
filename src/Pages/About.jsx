@@ -1,7 +1,7 @@
 import Footer from "../components/Footer";
 import HeroPages from "../components/HeroPages";
 import PlanTrip from "../components/PlanTrip";
-import AboutMain from "../images/about/about-main.jpg";
+import AboutMain from "../images/about/04.jpg";
 import Box1 from "../images/about/icon1.png";
 import Box2 from "../images/about/icon2.png";
 import Box3 from "../images/about/icon3.png";
@@ -63,7 +63,7 @@ function About() {
             <h2>Book a car by getting in touch with us</h2>
             <span>
               <i className="fa-solid fa-phone"></i>
-              <h3>(123) 456-7869</h3>
+              <h3>+2547 90482160</h3>
             </span>
           </div>
         </div>
